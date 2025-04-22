@@ -4,7 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Jr. Web Developer 👨‍💻, Jr. Graphic programmer 🖼️, and Software Engineer 🎮, Cyber security student💀
 -------------------------------------------------------------------------------------------------------
 
-Hello, and welcome! My name is Prince Udoka Ajaero but many know me as Archter. My passion for understanding how things work led me to discover a deep love for technology and coding. My journey began with a humble introduction to Microsoft Word, which quickly became my favorite pastime. Once I had my own computer, I explored game downloading, web surfing, and problem-solving through research and learning. This curiosity eventually led me to the world of 3D animation through Blender, inspired by Minecraft animations. From there, I ventured into creating Minecraft mods and Roblox models. Over time, I realized that programming was more than just a hobby—it had become my calling. There’s something truly fulfilling about bringing ideas to life from scratch through code. Stepping Stones Along the Way They say the little things add up, and here are a few of my milestones that, though mild, became significant in shaping my journey: - Built my first website in secondary school using Notepad for a class assignment (that sadly didn’t make the cut 😅). - Created 3D models and animations at the age of 16. - Developed my first hack tool in college. - Gained experience in graphics design and video editing. My Programming Language List - Python - HTML, CSS, and JavaScript - Go - SQL - C - Java (from Minecraft) - C++ (Game development) I live by the philosophy: "Aim for consistency, not perfection." Thank you for visiting my profile! 😊
+Hello, and welcome! My name is Prince Udoka Ajaero but many know me as Archter. My passion for understanding how things work led me to discover a deep love for technology and coding. My journey began with a humble introduction to Microsoft Word, which quickly became my favorite pastime. Once I had my own computer, I explored game downloading, web surfing, and problem-solving through research and learning. This curiosity eventually led me to the world of 3D animation through Blender, inspired by Minecraft animations. From there, I ventured into creating Minecraft mods and Roblox models. Over time, I realized that programming was more than just a hobby—it had become my calling. There’s something truly fulfilling about bringing ideas to life from scratch through code. Stepping Stones Along the Way They say the little things add up, and here are a few of my milestones that, though mild, became significant in shaping my journey:
+- Built my first website in secondary school using Notepad for a class assignment (that sadly didn’t make the cut 😅).
+- Created 3D models and animations at the age of 16. 
+- Developed my first hack tool in college.
+- Gained experience in graphics design and video editing. My Programming Language List
+  - Python
+  - HTML, CSS, and JavaScript
+  - Go
+  - SQL
+  - C
+  - Java (from Minecraft)
+  - C++ (Game development) I live by the philosophy: "Aim for consistency, not perfection." Thank you for visiting my profile! 😊
 
 * 🌍  I'm based in Nigeria, Abuja
 * ✉️  You can contact me at [ajaerop4@gmail.com](mailto:ajaerop4@gmail.com)
